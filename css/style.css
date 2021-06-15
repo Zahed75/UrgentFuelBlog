@@ -161,8 +161,10 @@ img { max-width: 100%; height: auto; }
     right: 0px;
     overflow:hidden;
     /* position: inherit; */
+
+    /* background: linear-gradient(90deg, #F8962C 0%, #EF3C26 100%); */
+    
 }
- 
 
 .center img{
     margin-left:auto;
@@ -191,13 +193,14 @@ text-transform: capitalize;
 
 /*====Zahed end====*/
 
-/* ====Mahin Start ==== */
+
 
 .main-body {
     max-width: 1254px;
     min-height: 763px;
     position: relative;
-    top: -730px;
+    /* top: -730px; */
+   
     background: white;
     box-shadow: 14px 11px 113px -17px rgba(0, 0, 0, 0.25);
     border-radius: 33px;
@@ -247,73 +250,16 @@ text-transform: capitalize;
 }
 
 
+
+/* blog Start */
+
+
+
+/* blog end*/
+
+
+
 /* ------------Footer starrt--------------- */
-
-.footer {
-    background-color: #1F1F1F;
-    height: 386px;
-    width: 100%;
-}
-
-.logo-section {
-    margin: 0 auto;
-    margin-top: 75px;
-
-}
-
-.subs-btn {
-    /* float: left; */
-    border-radius: 25px 0 0 25px;
-    width: 156px;
-    height: 49px;
-    margin: 0;
-    background: linear-gradient(90deg, #F8962C 0%, #EF3C26 100%);
-    border-radius: 41px 0px 0px 41px;
-    border: none;
-    outline: none;
-    color: white;
-    margin-top: 26px;
-}
-
-.subs-field {
-    /* float: left; */
-    width: 300px;
-    /* position: absolute; */
-    /* left: -1px; */
-    margin: 0;
-    height: 49px;
-    border-radius: 0 25px 25px 0;
-    border: none;
-    outline: none;
-    padding-left: 10px;
-    margin-top: 26px;
-}
-
-.social-icons {
-    margin-top: 30px;
-}
-
-.links-section {
-    margin-top: 75px;
-    text-align: left;
-}
-
-.link-head {
-    font-size: 22px;
-    font-weight: 600;
-    text-align: left;
-}
-
-.links {
-    font-size: 20px;
-    color: rgb(216, 216, 216);
-    font-weight: 200;
-    text-align: left;
-}
-
-a {
-    text-decoration: none;
-}
 
 /* ------------Footer end--------------- */
 
